@@ -20,3 +20,9 @@
 ## React-redux-boilerplate
 
 [![Build Status](https://semaphoreci.com/api/v1/nimjetushar/react-redux-boilerplate/branches/master/shields_badge.svg)](https://semaphoreci.com/nimjetushar/react-redux-boilerplate)
+
+# Tushar Nimje Github profile (CV)
+
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?label=my-website)](https://nimjetushar.github.io)
+[![Build Status](https://semaphoreci.com/api/v1/nimjetushar/nimjetushar-github-io/branches/master/shields_badge.svg)](https://semaphoreci.com/nimjetushar/nimjetushar-github-io)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ab1ac0cd0d204f989c95928b39bed6cf)](https://www.codacy.com/app/tushar/nimjetushar.github.io?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nimjetushar/nimjetushar.github.io&amp;utm_campaign=Badge_Grade)
