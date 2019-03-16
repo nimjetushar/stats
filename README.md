@@ -26,3 +26,28 @@
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?label=my-website)](https://nimjetushar.github.io)
 [![Build Status](https://semaphoreci.com/api/v1/nimjetushar/nimjetushar-github-io/branches/master/shields_badge.svg)](https://semaphoreci.com/nimjetushar/nimjetushar-github-io)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ab1ac0cd0d204f989c95928b39bed6cf)](https://www.codacy.com/app/tushar/nimjetushar.github.io?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nimjetushar/nimjetushar.github.io&amp;utm_campaign=Badge_Grade)
+
+## Angular_idle
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/94f190553d604a3895b999cb82e2622b)](https://www.codacy.com/app/tushar/Angular_idle?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nimjetushar/Angular_idle&amp;utm_campaign=Badge_Grade)
+
+## Idle JS
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/dd702ab0b3b44834ad7c7d9f65c64d99)](https://www.codacy.com/app/tushar/idle.js?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nimjetushar/idle.js&amp;utm_campaign=Badge_Grade)
+
+## jwt-authentication-solution
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/37a5a6dcf7f84a6ba3a7b4c379b40b65)](https://www.codacy.com/app/tushar/jwt-authentication-solution?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nimjetushar/jwt-authentication-solution&amp;utm_campaign=Badge_Grade)
+
+## Chat Application
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/98f13e505c98450885e84191afb5959b)](https://www.codacy.com/app/tushar/chat-bot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nimjetushar/chat-bot&amp;utm_campaign=Badge_Grade)
+
+## FlightBookingSystem
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a88d2cc964cb4a7db929b5278dcaaff5)](https://www.codacy.com/app/tushar/code-challenge1?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nimjetushar/code-challenge1&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://semaphoreci.com/api/v1/nimjetushar/code-challenge1/branches/master/shields_badge.svg)](https://semaphoreci.com/nimjetushar/code-challenge1)
+
+## Code Chalange 2
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0902a0655cac46bb81b27a0679232c2e)](https://www.codacy.com/app/tushar/code-challenge2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nimjetushar/code-challenge2&amp;utm_campaign=Badge_Grade)
