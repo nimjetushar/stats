@@ -21,7 +21,7 @@
 
 [![Build Status](https://semaphoreci.com/api/v1/nimjetushar/react-redux-boilerplate/branches/master/shields_badge.svg)](https://semaphoreci.com/nimjetushar/react-redux-boilerplate)
 
-# Tushar Nimje Github profile (CV)
+## Tushar Nimje Github profile (CV)
 
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?label=my-website)](https://nimjetushar.github.io)
 [![Build Status](https://semaphoreci.com/api/v1/nimjetushar/nimjetushar-github-io/branches/master/shields_badge.svg)](https://semaphoreci.com/nimjetushar/nimjetushar-github-io)
