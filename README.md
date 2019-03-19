@@ -36,6 +36,13 @@
 [![Build Status](https://semaphoreci.com/api/v1/nimjetushar/grid-css/branches/master/shields_badge.svg)](https://semaphoreci.com/nimjetushar/grid-css)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/200ab1bddb7641ae8a9c35b4389382ef)](https://www.codacy.com/app/tushar/grid-css?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nimjetushar/grid-css&amp;utm_campaign=Badge_Grade)
 
+## Express & ES6 REST API Boilerplate
+
+[![Build Status](https://semaphoreci.com/api/v1/nimjetushar/express-es6-rest-api/branches/master/shields_badge.svg)](https://semaphoreci.com/nimjetushar/express-es6-rest-api)
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=nimjetushar/express-es6-rest-api)](https://dependabot.com)
+<br/>
+[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nimjetushar/express-es6-rest-api)
+
 ## Angular_idle
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/94f190553d604a3895b999cb82e2622b)](https://www.codacy.com/app/tushar/Angular_idle?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nimjetushar/Angular_idle&amp;utm_campaign=Badge_Grade)
