@@ -9,6 +9,7 @@
 [![Status](https://api.dependabot.com/badges/status?host=github&repo=nimjetushar/ui-lib)](https://dependabot.com)
 <br/>
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/ui-lib.svg)](https://github.com/nimjetushar/ui-lib/blob/master/LICENSE)
+[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nimjetushar/ui-library)
 
 ## angularjs-react (P)
 
