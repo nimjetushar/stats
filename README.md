@@ -1,6 +1,6 @@
 # Project Stats
 
-## UI Library
+## UI Library   [![Repo](https://img.shields.io/badge/Repo-Ui%20Library-brightgreen.svg)](https://github.com/nimjetushar/ui-lib)
 
 [![Website](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=my-website)](https://nimjetushar.github.io/ui-lib/)
 <br/>
