@@ -66,8 +66,10 @@
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/37a5a6dcf7f84a6ba3a7b4c379b40b65)](https://www.codacy.com/app/tushar/jwt-authentication-solution?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nimjetushar/jwt-authentication-solution&amp;utm_campaign=Badge_Grade)
 
-## Namespace.js (P)
+## [Namespace.js](https://github.com/nimjetushar/Namespace.js) (P)
 
+[![Build Status](https://travis-ci.com/nimjetushar/Namespace.js.svg?branch=master)](https://travis-ci.com/nimjetushar/Namespace.js)
+<br/>
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/Namespace.js.svg)](https://github.com/nimjetushar/Namespace.js/blob/master/LICENSE)
 
 ## cosnole
