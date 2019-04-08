@@ -23,11 +23,15 @@
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/angularjs-react.svg)](https://github.com/nimjetushar/angularjs-react/blob/master/LICENSE)
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nimjetushar/angularjs-react)
 
-## Utils (P)
+## [Utils](https://github.com/nimjetushar/Utils)
 
 [![Build Status](https://semaphoreci.com/api/v1/nimjetushar/utils/branches/master/shields_badge.svg)](https://semaphoreci.com/nimjetushar/utils)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/86a61b646ab041c0b64e502b3d8be7a7)](https://www.codacy.com/app/tushar/Utils?utm_source=github.com&utm_medium=referral&utm_content=nimjetushar/Utils&utm_campaign=Badge_Grade)
 [![Codacy Badge](https://api.codacy.com/project/badge/Coverage/86a61b646ab041c0b64e502b3d8be7a7)](https://www.codacy.com/app/tushar/Utils?utm_source=github.com&utm_medium=referral&utm_content=nimjetushar/Utils&utm_campaign=Badge_Coverage)
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=nimjetushar/Utils)](https://dependabot.com)
+<br/>
+[![GitHub license](https://img.shields.io/github/license/nimjetushar/Utils.svg?style=popout)](https://github.com/nimjetushar/Utils/blob/master/LICENSE)
+[![devDependencies Status](https://david-dm.org/nimjetushar/utils/dev-status.svg)](https://david-dm.org/nimjetushar/utils?type=dev)
 
 ## React-redux-boilerplate (P)
 
