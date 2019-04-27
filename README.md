@@ -33,9 +33,16 @@
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/Utils.svg?style=popout)](https://github.com/nimjetushar/Utils/blob/master/LICENSE)
 [![devDependencies Status](https://david-dm.org/nimjetushar/utils/dev-status.svg)](https://david-dm.org/nimjetushar/utils?type=dev)
 
-## React-redux-boilerplate (P)
+## [React-redux-boilerplate](https://github.com/nimjetushar/React-redux-boilerplate)
 
 [![Build Status](https://semaphoreci.com/api/v1/nimjetushar/react-redux-boilerplate/branches/master/shields_badge.svg)](https://semaphoreci.com/nimjetushar/react-redux-boilerplate)
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=nimjetushar/React-redux-boilerplate)](https://dependabot.com)
+<br/>
+[![GitHub license](https://img.shields.io/github/license/nimjetushar/React-redux-boilerplate.svg)](https://github.com/nimjetushar/React-redux-boilerplate/blob/master/LICENSE)
+[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nimjetushar/react-redux-boilerplate)
+[![dependencies Status](https://david-dm.org/nimjetushar/React-redux-boilerplate/status.svg)](https://david-dm.org/nimjetushar/React-redux-boilerplate)
+[![devDependencies Status](https://david-dm.org/nimjetushar/React-redux-boilerplate/dev-status.svg)](https://david-dm.org/nimjetushar/React-redux-boilerplate?type=dev)
+
 
 ## Tushar Nimje Github profile (CV) (P)
 
