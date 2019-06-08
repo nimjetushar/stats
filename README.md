@@ -55,12 +55,16 @@
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/nimjetushar.github.io.svg)](https://github.com/nimjetushar/nimjetushar.github.io/blob/master/LICENSE)
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nimjetushar/nimjetushar-github-io)
 
-## grid.css (P)
+## [grid.css](https://github.com/nimjetushar/grid-css)
 
 [![Website](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=my-website)](https://nimjetushar.github.io/grid-css/)
 <br/>
 [![Build Status](https://semaphoreci.com/api/v1/nimjetushar/grid-css/branches/master/shields_badge.svg)](https://semaphoreci.com/nimjetushar/grid-css)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/200ab1bddb7641ae8a9c35b4389382ef)](https://www.codacy.com/app/tushar/grid-css?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nimjetushar/grid-css&amp;utm_campaign=Badge_Grade)
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=nimjetushar/grid-css)](https://dependabot.com)
+<br/>
+[![GitHub license](https://img.shields.io/github/license/nimjetushar/grid-css.svg)](https://github.com/nimjetushar/grid-css/blob/master/LICENSE) 
+[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nimjetushar/grid-css)
 
 ## Express & ES6 REST API Boilerplate (P)
 
@@ -98,6 +102,9 @@
 [![Build Status](https://semaphoreci.com/api/v1/nimjetushar/code-challenge1/branches/master/shields_badge.svg)](https://semaphoreci.com/nimjetushar/code-challenge1)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a88d2cc964cb4a7db929b5278dcaaff5)](https://www.codacy.com/app/tushar/code-challenge1?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nimjetushar/code-challenge1&amp;utm_campaign=Badge_Grade)
 
-## Code Chalange 2 (P)
+## [Code Chalange 2](https://github.com/nimjetushar/code-challenge2)
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0902a0655cac46bb81b27a0679232c2e)](https://www.codacy.com/app/tushar/code-challenge2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nimjetushar/code-challenge2&amp;utm_campaign=Badge_Grade)
+<br/>
+![](https://img.shields.io/github/license/nimjetushar/code-challenge2.svg)
+
