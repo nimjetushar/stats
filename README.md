@@ -79,13 +79,20 @@
 <br/>
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/Angular_idle.svg)](https://github.com/nimjetushar/Angular_idle/blob/master/LICENSE)
 
-## Idle JS (P)
+## [Idle JS](https://github.com/nimjetushar/idle.js)
 
+[![Build Status](https://travis-ci.com/nimjetushar/idle.js.svg?branch=master)](https://travis-ci.com/nimjetushar/idle.js)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/dd702ab0b3b44834ad7c7d9f65c64d99)](https://www.codacy.com/app/tushar/idle.js?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nimjetushar/idle.js&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/dd702ab0b3b44834ad7c7d9f65c64d99)](https://www.codacy.com/app/tushar/idle.js?utm_source=github.com&utm_medium=referral&utm_content=nimjetushar/idle.js&utm_campaign=Badge_Coverage)
+<br/>
+[![GitHub license](https://img.shields.io/github/license/nimjetushar/idle.js.svg)](https://github.com/nimjetushar/idle.js/blob/master/LICENSE)
 
-## jwt-authentication-solution (P)
+## [jwt-authentication-solution](https://github.com/nimjetushar/jwt-authentication-solution)
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/37a5a6dcf7f84a6ba3a7b4c379b40b65)](https://www.codacy.com/app/tushar/jwt-authentication-solution?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nimjetushar/jwt-authentication-solution&amp;utm_campaign=Badge_Grade)
+<br/>
+[![GitHub license](https://img.shields.io/github/license/nimjetushar/jwt-authentication-solution.svg)](https://github.com/nimjetushar/jwt-authentication-solution/blob/master/LICENSE)
+[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nimjetushar/jwt-authentication-solution)
 
 ## [Namespace.js](https://github.com/nimjetushar/Namespace.js) (P)
 
@@ -100,14 +107,18 @@
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/cosnole.svg)](https://github.com/nimjetushar/cosnole/blob/master/LICENSE)
 [![devDependencies Status](https://david-dm.org/nimjetushar/cosnole/dev-status.svg)](https://david-dm.org/nimjetushar/cosnole?type=dev)
 
-## Chat Application (P)
+## [Chat Application](https://github.com/nimjetushar/chat-application)
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/98f13e505c98450885e84191afb5959b)](https://www.codacy.com/app/tushar/chat-bot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nimjetushar/chat-bot&amp;utm_campaign=Badge_Grade)
 
-## FlightBookingSystem (P)
+## [FlightBookingSystem](https://github.com/nimjetushar/code-challenge1)
 
 [![Build Status](https://semaphoreci.com/api/v1/nimjetushar/code-challenge1/branches/master/shields_badge.svg)](https://semaphoreci.com/nimjetushar/code-challenge1)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a88d2cc964cb4a7db929b5278dcaaff5)](https://www.codacy.com/app/tushar/code-challenge1?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nimjetushar/code-challenge1&amp;utm_campaign=Badge_Grade)
+<br/>
+[![GitHub license](https://img.shields.io/github/license/nimjetushar/code-challenge1.svg)](https://github.com/nimjetushar/code-challenge1/blob/master/LICENSE)
+[![dependencies Status](https://david-dm.org/nimjetushar/code-challenge1/status.svg)](https://david-dm.org/nimjetushar/code-challenge1)
+[![devDependencies Status](https://david-dm.org/nimjetushar/code-challenge1/dev-status.svg)](https://david-dm.org/nimjetushar/code-challenge1?type=dev)
 
 ## [Code Chalange 2](https://github.com/nimjetushar/code-challenge2)
 
