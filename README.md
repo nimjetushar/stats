@@ -73,9 +73,11 @@
 <br/>
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nimjetushar/express-es6-rest-api)
 
-## Angular_idle (P)
+## [Angular_idle](https://github.com/nimjetushar/Angular_idle)
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/94f190553d604a3895b999cb82e2622b)](https://www.codacy.com/app/tushar/Angular_idle?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nimjetushar/Angular_idle&amp;utm_campaign=Badge_Grade)
+<br/>
+[![GitHub license](https://img.shields.io/github/license/nimjetushar/Angular_idle.svg)](https://github.com/nimjetushar/Angular_idle/blob/master/LICENSE)
 
 ## Idle JS (P)
 
@@ -91,7 +93,12 @@
 <br/>
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/Namespace.js.svg)](https://github.com/nimjetushar/Namespace.js/blob/master/LICENSE)
 
-## cosnole
+## [cosnole](https://github.com/nimjetushar/cosnole)
+
+[![Build Status](https://travis-ci.com/nimjetushar/cosnole.svg?branch=master)](https://travis-ci.com/nimjetushar/cosnole)
+<br/>
+[![GitHub license](https://img.shields.io/github/license/nimjetushar/cosnole.svg)](https://github.com/nimjetushar/cosnole/blob/master/LICENSE)
+[![devDependencies Status](https://david-dm.org/nimjetushar/cosnole/dev-status.svg)](https://david-dm.org/nimjetushar/cosnole?type=dev)
 
 ## Chat Application (P)
 
