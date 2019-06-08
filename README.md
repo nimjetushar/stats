@@ -66,12 +66,15 @@
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/grid-css.svg)](https://github.com/nimjetushar/grid-css/blob/master/LICENSE) 
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nimjetushar/grid-css)
 
-## Express & ES6 REST API Boilerplate (P)
+## [Express & ES6 REST API Boilerplate](https://github.com/nimjetushar/express-es6-rest-api)
 
 [![Build Status](https://semaphoreci.com/api/v1/nimjetushar/express-es6-rest-api/branches/master/shields_badge.svg)](https://semaphoreci.com/nimjetushar/express-es6-rest-api)
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=nimjetushar/express-es6-rest-api)](https://dependabot.com)
 <br/>
+[![GitHub license](https://img.shields.io/github/license/nimjetushar/express-es6-rest-api.svg)](https://github.com/nimjetushar/express-es6-rest-api/blob/master/LICENSE)
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nimjetushar/express-es6-rest-api)
+[![dependencies Status](https://david-dm.org/nimjetushar/express-es6-rest-api/status.svg)](https://david-dm.org/nimjetushar/express-es6-rest-api)
+[![devDependencies Status](https://david-dm.org/nimjetushar/express-es6-rest-api/dev-status.svg)](https://david-dm.org/nimjetushar/express-es6-rest-api?type=dev)
 
 ## [Angular_idle](https://github.com/nimjetushar/Angular_idle)
 
