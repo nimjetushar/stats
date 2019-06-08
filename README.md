@@ -97,7 +97,7 @@
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/jwt-authentication-solution.svg)](https://github.com/nimjetushar/jwt-authentication-solution/blob/master/LICENSE)
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nimjetushar/jwt-authentication-solution)
 
-## [Namespace.js](https://github.com/nimjetushar/Namespace.js) (P)
+## [Namespace.js](https://github.com/nimjetushar/Namespace.js)
 
 [![Build Status](https://travis-ci.com/nimjetushar/Namespace.js.svg?branch=master)](https://travis-ci.com/nimjetushar/Namespace.js)
 <br/>
