@@ -11,6 +11,7 @@
 <br/>
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/ui-lib.svg)](https://github.com/nimjetushar/ui-lib/blob/master/LICENSE)
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nimjetushar/ui-library)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/nimjetushar/angularjs-react.svg)
 
 ## [angularjs-react](https://github.com/nimjetushar/angularjs-react)
 
