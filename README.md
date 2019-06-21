@@ -11,7 +11,7 @@
 <br/>
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/ui-lib.svg)](https://github.com/nimjetushar/ui-lib/blob/master/LICENSE)
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nimjetushar/ui-library)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/nimjetushar/angularjs-react.svg)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/nimjetushar/ui-library.svg)
 
 ## [angularjs-react](https://github.com/nimjetushar/angularjs-react)
 
@@ -23,6 +23,7 @@
 <br/>
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/angularjs-react.svg)](https://github.com/nimjetushar/angularjs-react/blob/master/LICENSE)
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nimjetushar/angularjs-react)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/nimjetushar/angularjs-react.svg)
 
 ## [Utils](https://github.com/nimjetushar/Utils)
 
@@ -32,6 +33,7 @@
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=nimjetushar/Utils)](https://dependabot.com)
 <br/>
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/Utils.svg?style=popout)](https://github.com/nimjetushar/Utils/blob/master/LICENSE)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/nimjetushar/Utils.svg)
 [![devDependencies Status](https://david-dm.org/nimjetushar/utils/dev-status.svg)](https://david-dm.org/nimjetushar/utils?type=dev)
 
 ## [React-redux-boilerplate](https://github.com/nimjetushar/React-redux-boilerplate)
@@ -41,9 +43,9 @@
 <br/>
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/React-redux-boilerplate.svg)](https://github.com/nimjetushar/React-redux-boilerplate/blob/master/LICENSE)
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nimjetushar/react-redux-boilerplate)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/nimjetushar/React-redux-boilerplate.svg)
 [![dependencies Status](https://david-dm.org/nimjetushar/React-redux-boilerplate/status.svg)](https://david-dm.org/nimjetushar/React-redux-boilerplate)
 [![devDependencies Status](https://david-dm.org/nimjetushar/React-redux-boilerplate/dev-status.svg)](https://david-dm.org/nimjetushar/React-redux-boilerplate?type=dev)
-
 
 ## [Tushar Nimje Github profile (CV)](https://github.com/nimjetushar/nimjetushar.github.io)
 
@@ -55,6 +57,7 @@
 <br/>
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/nimjetushar.github.io.svg)](https://github.com/nimjetushar/nimjetushar.github.io/blob/master/LICENSE)
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nimjetushar/nimjetushar-github-io)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/nimjetushar/nimjetushar-github-io.svg)
 
 ## [grid.css](https://github.com/nimjetushar/grid-css)
 
@@ -66,6 +69,7 @@
 <br/>
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/grid-css.svg)](https://github.com/nimjetushar/grid-css/blob/master/LICENSE) 
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nimjetushar/grid-css)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/nimjetushar/grid-css.svg)
 
 ## [Express & ES6 REST API Boilerplate](https://github.com/nimjetushar/express-es6-rest-api)
 
@@ -74,6 +78,7 @@
 <br/>
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/express-es6-rest-api.svg)](https://github.com/nimjetushar/express-es6-rest-api/blob/master/LICENSE)
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nimjetushar/express-es6-rest-api)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/nimjetushar/express-es6-rest-api.svg)
 [![dependencies Status](https://david-dm.org/nimjetushar/express-es6-rest-api/status.svg)](https://david-dm.org/nimjetushar/express-es6-rest-api)
 [![devDependencies Status](https://david-dm.org/nimjetushar/express-es6-rest-api/dev-status.svg)](https://david-dm.org/nimjetushar/express-es6-rest-api?type=dev)
 
