@@ -11,7 +11,7 @@
 <br/>
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/ui-lib.svg)](https://github.com/nimjetushar/ui-lib/blob/master/LICENSE)
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nimjetushar/ui-library)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/nimjetushar/ui-library.svg)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/nimjetushar/ui-lib.svg)
 
 ## [angularjs-react](https://github.com/nimjetushar/angularjs-react)
 
@@ -57,7 +57,7 @@
 <br/>
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/nimjetushar.github.io.svg)](https://github.com/nimjetushar/nimjetushar.github.io/blob/master/LICENSE)
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nimjetushar/nimjetushar-github-io)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/nimjetushar/nimjetushar-github-io.svg)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/nimjetushar/nimjetushar.github.io.svg)
 
 ## [grid.css](https://github.com/nimjetushar/grid-css)
 
