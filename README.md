@@ -20,6 +20,7 @@
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=nimjetushar/ui-library-document-website)](https://dependabot.com)
 <br/>
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/ui-library-document-website)](https://github.com/nimjetushar/ui-library-document-website/blob/master/LICENSE)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/nimjetushar/ui-library-document-website)
 
 ## [angularjs-react](https://github.com/nimjetushar/angularjs-react)
 
