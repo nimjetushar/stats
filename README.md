@@ -112,6 +112,7 @@
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=nimjetushar/jwt-authentication-solution)](https://dependabot.com)
 <br/>
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/jwt-authentication-solution.svg)](https://github.com/nimjetushar/jwt-authentication-solution/blob/master/LICENSE)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/nimjetushar/jwt-authentication-solution)
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nimjetushar/jwt-authentication-solution)
 
 ## [Namespace.js](https://github.com/nimjetushar/Namespace.js)
