@@ -107,7 +107,9 @@
 
 ## [jwt-authentication-solution](https://github.com/nimjetushar/jwt-authentication-solution)
 
+[![Build Status](https://semaphoreci.com/api/v1/nimjetushar/jwt-authentication-solution/branches/dependabot-npm_and_yarn-body-parser-1-19-0/shields_badge.svg)](https://semaphoreci.com/nimjetushar/jwt-authentication-solution)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/37a5a6dcf7f84a6ba3a7b4c379b40b65)](https://www.codacy.com/app/tushar/jwt-authentication-solution?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nimjetushar/jwt-authentication-solution&amp;utm_campaign=Badge_Grade)
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=nimjetushar/jwt-authentication-solution)](https://dependabot.com)
 <br/>
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/jwt-authentication-solution.svg)](https://github.com/nimjetushar/jwt-authentication-solution/blob/master/LICENSE)
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nimjetushar/jwt-authentication-solution)
